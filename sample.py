@@ -13,3 +13,5 @@ print(2 < 1)
 print(True)
 print('テストの点数は' + str(100) + '点です')
 
+
+
