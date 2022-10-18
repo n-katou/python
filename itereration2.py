@@ -24,3 +24,5 @@ while count < 100:
     if count == score:
         print(score)
         break
+    
+    
