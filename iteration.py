@@ -5,3 +5,5 @@ for score in scores:
         print(str(score) + '点:' + '合格')
     else:
         print(str(score) + '点:' + '不合格')
+        
+        
