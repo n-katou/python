@@ -42,3 +42,5 @@ pochi.cry()
 tama = Cat('三毛猫', 3,'黒')
 tama.cry()
 
+
+
